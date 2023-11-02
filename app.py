@@ -72,7 +72,7 @@ def get_tabs(selected):
 
     with tab2:
         if selected =="Wakefield":
-            components.iframe("https://app.powerbi.com/view?r=eyJrIjoiMTJmZjBmZjItNjhmOS00MjUxLThkYzktNzJhMjQxNzU2Mzg1IiwidCI6ImEwNzVjNTUzLTcyNzItNDg4OC1iZDVmLWRjNzNlNWQxODljMyIsImMiOjZ9", height=700)
+            components.iframe("https://app.powerbi.com/view?r=eyJrIjoiZTAwNGIyYzAtYTJjNi00ZWI2LTg3ZDktOTRhZTBjYzFiZGI3IiwidCI6ImEwNzVjNTUzLTcyNzItNDg4OC1iZDVmLWRjNzNlNWQxODljMyIsImMiOjZ9", height=700)
         elif selected == "Black Bison Organics":
             components.iframe("https://app.powerbi.com/view?r=eyJrIjoiZTAwNGIyYzAtYTJjNi00ZWI2LTg3ZDktOTRhZTBjYzFiZGI3IiwidCI6ImEwNzVjNTUzLTcyNzItNDg4OC1iZDVmLWRjNzNlNWQxODljMyIsImMiOjZ9", height=700)
 
